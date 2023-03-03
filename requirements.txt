@@ -2,6 +2,6 @@ pandas
 plotly
 dash
 dash_bootstrap_components
-sklearn
+scikit-learn
 xgboost
 gunicorn
